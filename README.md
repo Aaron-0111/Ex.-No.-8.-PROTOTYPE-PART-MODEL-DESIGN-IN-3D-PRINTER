@@ -46,9 +46,16 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![c7c16b05-efc5-4a20-bfcf-32c8be2cf23c](https://github.com/Aaron-0111/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149347631/d48da868-34c3-4148-baf7-f1c68fc44d78)
+![5be6abb9-4290-44e4-970d-94bbeec90ade](https://github.com/Aaron-0111/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149347631/70c746ba-b1cd-4db6-a300-f0a6e7597421)
+![52f0f1da-22b5-4f03-a51e-649f064f093f](https://github.com/Aaron-0111/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149347631/a3c20169-8f8f-4e22-8aa8-0b6863e6cddd)
+![a4309090-9ff7-47c1-bdb3-7960b6e4894d](https://github.com/Aaron-0111/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149347631/10c1062f-febe-4214-b43e-4db4294c6ce6)
+![9f037e52-b338-4736-a943-4439348e781b](https://github.com/Aaron-0111/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149347631/a7c6a4db-bf8c-4d55-a0a2-53de3e8e84b8)
+![8cc4949a-2122-44f9-ba51-b0489710bc4e](https://github.com/Aaron-0111/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149347631/4706bcac-9ea3-4ba0-82b2-3358508373d0)
+![b8ef488c-76a4-453f-a429-207c61779c8a](https://github.com/Aaron-0111/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149347631/3f4e75b8-82a1-40db-a4f7-dc9b65558311)
 
-### Name:
-### Register Number:
+### Name:Aaron Rajesh.R
+### Register Number:23008897
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
